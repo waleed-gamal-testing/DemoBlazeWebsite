@@ -52,6 +52,9 @@ AutomationTestingFramework/
    ```sh
    mvn test
    ```
+## Video
+## Website for automation testing
+**Video Link** : https://youtu.be/uAxe6hNFGUg 
 
 ## Test Execution & Reporting
 - The framework supports **parallel execution** using TestNG XML configurations.
